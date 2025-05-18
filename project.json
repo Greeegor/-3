@@ -1,8 +1,8 @@
 {
   "name": "GyverHub-example",
   "about": "Образец оформления репозитория проекта",
-  "version": "1.3",
-  "notes": "Исправлены мелкие баги",
+  "version": "1.5",
+  "notes": "Исправлены мелкие",
   "builds": [
     {
       "chipFamily": "ESP8266",
@@ -17,7 +17,7 @@
       "chipFamily": "ESP32",
       "parts": [
         {
-          "path": "https://github.com/Greeegor/-3/blob/main/26.04.25_x3_GSWS_OS_Paster.ino.bin",
+          "path": "https://github.com/Greeegor/-3/blob/main/firmware.bin",
           "offset": 0
         }
       ]

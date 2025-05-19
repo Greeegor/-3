@@ -5,6 +5,7 @@
   "notes": "Исправлены мелкие багги",
   "builds": [
     {
+      "chipFamily": "ESP32",
       "parts": [
         { "path": "https://raw.githubusercontent.com/Greeegor/-3/main/bin/firmware.bin", "offset": 0}
       ]

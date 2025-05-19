@@ -1,1 +1,13 @@
-
+{
+  "name": "GyverHub-example",
+  "about": "Образец оформления репозитория проекта",
+  "version": "0.9",
+  "notes": "Исправлены мелкие",
+  "builds": [
+    {
+      "parts": [
+        { "path": "https://raw.githubusercontent.com/Greeegor/-3/main/bin/firmware.bin", "offset": 0}
+      ]
+    }
+  ]
+}

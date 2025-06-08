@@ -1,13 +1,13 @@
 {
   "name": "eXcube Jr. firmware",
   "about": "x3 Firmware",
-  "version": "1.1",
+  "version": "1.2",
   "notes": "Fixed some errors",
   "builds": [
     { 
       "chipFamily": "ESP32",
       "parts": [
-        { "path": "https://raw.githubusercontent.com/Greeegor/-3/main/bin/x3_firmware_1.1.bin", "offset": 0 }
+        { "path": "https://raw.githubusercontent.com/Greeegor/-3/main/bin/x3_firmware_1.2.bin", "offset": 0 }
       ]
     }
   ]

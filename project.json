@@ -2,7 +2,7 @@
   "name": "eXcube Jr. firmware",
   "about": "x3 Firmware",
   "version": "1.2",
-  "notes": "Fixed some errors",
+  "notes": "some errors",
   "builds": [
     { 
       "chipFamily": "ESP32",

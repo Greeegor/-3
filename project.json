@@ -8,7 +8,11 @@
       "chipFamily": "ESP32",
       "parts":
 
-        { "path": "https://raw.githubusercontent.com/Greeegor/-3/main/bin/firmware.bin",   "offset": 0 }
+        { "path": "https://raw.githubusercontent.com/Greeegor/-3/main/bin/bootloader.bin", "offset": 4096 },
+        { "path": "https://raw.githubusercontent.com/Greeegor/-3/main/bin/partitions.bin", "offset": 32768 },
+        { "path": "https://raw.githubusercontent.com/Greeegor/-3/main/bin/boot_app0.bin", "offset": 57344 },
+        { "path": "https://raw.githubusercontent.com/Greeegor/-3/main/bin/firmware.bin", "offset": 65536 }
+
       ]
     }
   ]

@@ -1,8 +1,8 @@
 {
-  "name": "x3 Firmware",
-  "about": "Прошивка для eXcube Jr.",
+  "name": "eXcube Jr. firmware",
+  "about": "x3 Firmware",
   "version": "1.1",
-  "notes": "Исправлены ошибки",
+  "notes": "Fixed some errors",
   "builds": [
     { 
       "chipFamily": "ESP32",

@@ -4,7 +4,7 @@
   "version": "1.29",
   "notes": "Исправлены мелкие бэгги",
   "builds": [
-    {
+    { "chipFamily": "ESP32",
       "parts": [
         { "path": "https://raw.githubusercontent.com/Greeegor/-3/main/bin/bootloader.bin", "offset": 4096 },
         { "path": "https://raw.githubusercontent.com/Greeegor/-3/main/bin/partitions.bin", "offset": 32768 },

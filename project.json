@@ -1,7 +1,7 @@
 {
   "name": "eXcube Jr. firmware",
   "about": "x3 Firmware",
-  "version": "1.4",
+  "version": "1.0.1",
   "notes": "some errors",
   "builds": [
     { 
